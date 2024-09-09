@@ -3,7 +3,7 @@
 **Data Scientist | Machine Learning Enthusiast | AI Innovator**  
 🔍 Exploring the realms of **Data Science**, **Machine Learning**, **Deep Learning**, and **Generative AI** to build impactful solutions.
 
-![Profile Banner](images/background.png)
+![Profile Banner](images/Nakul_Chamariya.jpeg)
 
 ---
 
