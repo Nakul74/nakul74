@@ -7,11 +7,14 @@
 
 ## 🚀 About Me
 
-I'm an innovative Data Scientist with a strong background in AI technologies. I specialize in **Python**, **TensorFlow**, **NLP**, **Computer Vision**, **Generative-AI**, and **MLOps**, crafting cutting-edge solutions across various domains. With a passion for turning data into actionable insights, I thrive on creating and deploying AI-driven systems that solve real-world problems.
+Innovative AI Engineer and Data Scientist with 3+ years of experience building end-to-end solutions across e-commerce and healthcare domains. Expert in LLMs, MLOps, and cloud infrastructure with a passion for creating scalable and efficient AI systems.
 
-- 📍 Based in India
-- 🧠 Focused on leveraging data for business growth and innovation
-- 🌐 Experienced in cloud services, AI models, web scraping, and more
+I specialize in:
+- 🤖 Full-Stack AI Engineering with both proprietary and open-source LLMs
+- ☁️ Cloud Infrastructure & MLOps
+- 🧠 Multimodal AI Applications
+- 📊 Performance Optimization
+- 💡 Business-Focused Solutions
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakul-chamariya) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/nakul74) 
 
@@ -20,110 +23,17 @@ I'm an innovative Data Scientist with a strong background in AI technologies. I 
 ## 🛠 Skills & Tools
 
 ### Languages and Tools
-<p align="left"> 
-    <a href="https://www.docker.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://opencv.org/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-    </a> 
-    <a href="https://postman.com" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://pytorch.org/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-    </a> 
-    <a href="https://scikit-learn.org/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a> 
-    <a href="https://fastapi.tiangolo.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" alt="fastapi" width="40" height="40"/> 
-    </a> 
-    <a href="https://aws.amazon.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
-    </a> 
-    <a href="https://prometheus.io/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> 
-    </a> 
-    <a href="https://grafana.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.jenkins.io/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-    </a> 
-    <a href="https://dvc.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dvc.svg" alt="dvc" width="40" height="40"/> 
-    </a> 
-    <a href="https://airflow.apache.org/" target="_blank"> 
-        <img src="https://avatars.githubusercontent.com/u/47359?s=48&v=4" alt="airflow" width="40" height="40"/> 
-    </a> 
-    <a href="https://mlflow.org/" target="_blank"> 
-        <img src="https://avatars.githubusercontent.com/u/39938107?s=48&v=4" alt="mlflow" width="40" height="40"/> 
-    </a> 
-    <a href="https://numpy.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-    </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank"> 
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-    </a> 
-    <a href="https://matplotlib.org/" target="_blank"> 
-        <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/> 
-    </a> 
-    <a href="https://openai.com/" target="_blank"> 
-        <img src="https://openai.com/favicon.ico" alt="openai" width="40" height="40"/> 
-    </a> 
-    <a href="https://langchain.com/" target="_blank"> 
-        <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="langchain" width="40" height="40"/> 
-    </a> 
-    <a href="https://keras.io/" target="_blank"> 
-        <img src="https://avatars.githubusercontent.com/u/34455048?s=48&v=4" alt="keras" width="40" height="40"/> 
-    </a> 
-    <a href="https://evidentlyai.com/" target="_blank"> 
-        <img src="https://avatars.githubusercontent.com/u/75031056?s=200&v=4" alt="evidently_ai" width="40" height="40"/> 
-    </a> 
-    <a href="https://crewai.com/" target="_blank"> 
-        <img src="https://crewai.com/favicon.ico" alt="crew_ai" width="40" height="40"/> 
-    </a> 
-    <a href="https://huggingface.co/" target="_blank"> 
-        <img src="https://huggingface.co/front/favicon.ico" alt="huggingface" width="40" height="40"/> 
-    </a> 
-    <a href="https://docs.pytest.org/" target="_blank"> 
-        <img src="https://docs.pytest.org/en/stable/_static/pytest1.png" alt="pytest" width="40" height="40"/> 
-    </a> 
-    <a href="https://zenml.io/" target="_blank"> 
-        <img src="https://avatars.githubusercontent.com/u/88676955?s=200&v=4" alt="zenml" width="40" height="40"/> 
-    </a> 
-    <a href="https://streamlit.io/" target="_blank"> 
-        <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="40" height="40"/> 
-    </a> 
-    <a href="https://heroku.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-    </a> 
-</p>
+| Category | Technologies |
+|----------|---------|
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
+| **LLM & Gen AI** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=flat) ![Anthropic](https://img.shields.io/badge/Anthropic-4A154B?style=flat) |
+| **Data & Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+| **MLOps** | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) |
+| **Web & API** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| **Other Tech** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white) |
+
 
 ### Key Skills
 - **Generative AI**
@@ -198,6 +108,15 @@ I'm an innovative Data Scientist with a strong background in AI technologies. I 
 </details>
 
 ---
+
+## 🌟 Why Work With Me
+
+- **Full-Stack AI Engineering**: End-to-end AI systems with cost reduction up to 10x
+- **Cloud & Infrastructure Excellence**: Architected scalable AWS solutions with 5x cost savings
+- **MLOps & Production AI**: Robust pipelines serving millions of users
+- **Multimodal AI Applications**: Sophisticated systems combining vision, NLP, and speech
+- **Performance Optimization**: Reduced processing times from 24hrs to 60min and 5x cost reductions
+- **Business Impact Focus**: Solutions that directly impact revenue and efficiency
 
 ## 📫 Get in Touch
 
