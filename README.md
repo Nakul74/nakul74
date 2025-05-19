@@ -118,6 +118,8 @@ I specialize in:
 - **Performance Optimization**: Reduced processing times from 24hrs to 60min and 5x cost reductions
 - **Business Impact Focus**: Solutions that directly impact revenue and efficiency
 
+---
+
 ## 📫 Get in Touch
 
 I'm always open to discussing data science projects, innovative ideas, or collaboration opportunities.
